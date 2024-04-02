@@ -1,0 +1,9 @@
+.navbar-brand {
+    justify-content: flex-end;
+  margin-right: 0 !important;
+}
+
+.btn btn-outline-success {
+    justify-content: flex-end;
+  margin-right: 0 !important;
+}
